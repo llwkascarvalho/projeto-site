@@ -17,25 +17,15 @@ h2 {
     color: #37006B;
 }
 
-.lado {
-    float: right;
-}
-
-a {
-    color: #631aa8;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #37006bab;
-    text-decoration: underline;
-}
-
 main {
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.514);
+}
+
+iframe {
+    width: 100%;
+    margin-bottom: 20px;
 }
